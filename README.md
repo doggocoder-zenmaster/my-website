@@ -2,6 +2,5 @@
 
 testing fetch and pull
 
-_new branch - edit-readme_
+deleted 2 lines and added a line before rebase
 
-adding a new line locally
